@@ -4,7 +4,7 @@ from setuptools import setup
 setup(
     name='dnnlib',
     version='1.0.0',
-    description='dnnlib libruary by NVlabs',
+    description='dnnlib library by NVlabs',
     author='NVIDIA',
     classifiers=[
         'Programming Language :: Python :: 2.7',
